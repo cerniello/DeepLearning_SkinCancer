@@ -18,4 +18,4 @@ We built two different Convolutional Neural Networks and we see how they acts. W
 In this repository you can find:
 
 * The notebook which summarize the results (the models have been pre-trained on Google Colab)
-* Google presentation
+* Short presentation (pdf slides)
